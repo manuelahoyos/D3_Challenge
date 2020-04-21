@@ -5,7 +5,7 @@ The correlation between lack of healthcare, percentage of smokers, and obesity p
 
 ## Workflow:
 
-A scatterplot was created within the app.js file using JavaScript and D3. The data was pulled from the data.csv file and the d3.csv function was used to append the graph into the HTML file. CSS was used for styling for both the page and the scatterplot. D3 was used for animations, transitions, click events on the x and y labels, and tooltips when the cursor hovers over the state circles. 
+A scatterplot was created within the app.js file using JavaScript and D3. The data was pulled from the data.csv file and the d3.select() function was used to append the graph into the HTML file. CSS was used for styling for both the page and the scatterplot. D3 was used for animations, transitions, click events on the x and y labels, and tooltips when the cursor hovers over the state circles. 
 
 
 ## Observations:
