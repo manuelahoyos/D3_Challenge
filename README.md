@@ -11,20 +11,28 @@ The correlation between lack of healthcare, percentage of smokers, and obesity p
 
 ## Observations:
 
-![Image description](images/Obesityvs.Poverty.png)
-
-![Image description](images/Smokesvs.Poverty.png)
+When comparing lack of healthcare to poverty, the data is spread across the graph, meaning that there is no direct relationship between percentage of poverty and percentage of people lacking healthcare.
 
 ![Image description](images/LackHealthvs.Poverty.png)
 
-![Image description](images/Obesityvs.Age.png)
-
-![Image description](images/Smokesvs.Age.png)
+For most states, people who lack healthcare are within the age range of 36 - 40.
 
 ![Image description](images/Lackhealthvs.Age.png)
 
-![Image description](images/Obesityvs.Income.png)
+There is no direct correlation between percentage of smokers, or obesity percentage, and the percentage of poverty and/or median household income. Also, those states with the highest percentage of smokers (or obesity percentage), have the highest percentage of poverty and the lowest median household income
 
+![Image description](images/Obesityvs.Income.png)
 ![Image description](images/Smokesvs.Income.png)
+![Image description](images/Obesityvs.Poverty.png)
+![Image description](images/Smokesvs.Poverty.png)
+
+For most states, people who smoke (or those considered obese) are within the age range of 36 - 40.
+
+![Image description](images/Smokesvs.Age.png)
+![Image description](images/Obesityvs.Age.png)
+
+Similarly, there is no direct correlation between median household income and percentage of people lacking healthcare. 
 
 ![Image description](images/Lackhealthvs.Income.png)
+
+
