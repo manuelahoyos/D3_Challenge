@@ -14,11 +14,11 @@ A scatterplot was created within the app.js file using JavaScript and D3. The da
 
 ![Image description](images/LackHealthvs.Poverty.png)
 
-For most states, people who lack healthcare are within the age range of 36 - 40.
+## For most states, people who lack healthcare are within the age range of 36 - 40.
 
 ![Image description](images/Lackhealthvs.Age.png)
 
-There is no direct correlation between percentage of smokers, or obesity percentage, and the percentage of poverty and/or median household income. Also, those states with the highest percentage of smokers (or obesity percentage), have the highest percentage of poverty and the lowest median household income
+## There is no direct correlation between percentage of smokers, or obesity percentage, and the percentage of poverty and/or median household income. Also, those states with the highest percentage of smokers (or obesity percentage), have the highest percentage of poverty and the lowest median household income
 
 ![Image description](images/Obesityvs.Income.png)
 ![Image description](images/Smokesvs.Income.png)
