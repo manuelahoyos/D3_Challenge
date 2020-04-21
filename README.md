@@ -1,2 +1,12 @@
 # D3 Challenge
-Assignment in which risk factors are compared to demographics for all states, and the correlations are visualized using JavaScript and D3. 
+
+## Overview:
+The correlation between lack of healthcare, smoking status, and obesity was compared to poverty, age and household income. The data was obtained from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System and the results were visualized using D3. 
+
+## Dataset:
+
+
+## Workflow:
+
+
+## Observations:
