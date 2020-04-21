@@ -11,4 +11,20 @@ The correlation between lack of healthcare, smoking status, and obesity was comp
 
 ## Observations:
 
-![Image description](images/D3Times.png)
+![Image description](images/Obesityvs.Poverty.png)
+
+![Image description](images/Smokesvs.Poverty.png)
+
+![Image description](images/LackHealthvs.Poverty.png)
+
+![Image description](images/Obesityvs.Age.png)
+
+![Image description](images/Smokesvs.Age.png)
+
+![Image description](images/Lackhealthvs.Age.png)
+
+![Image description](images/Obesityvs.Income.png)
+
+![Image description](images/Smokesvs.Income.png)
+
+![Image description](images/Lackhealthvs.Income.png)
