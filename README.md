@@ -25,12 +25,12 @@ A scatterplot was created within the app.js file using JavaScript and D3. The da
 ![Image description](images/Obesityvs.Poverty.png)
 ![Image description](images/Smokesvs.Poverty.png)
 
-For most states, people who smoke (or those considered obese) are within the age range of 36 - 40.
+## For most states, people who smoke (or those considered obese) are within the age range of 36 - 40.
 
 ![Image description](images/Smokesvs.Age.png)
 ![Image description](images/Obesityvs.Age.png)
 
-Similarly, there is no direct correlation between median household income and percentage of people lacking healthcare. 
+## Similarly, there is no direct correlation between median household income and percentage of people lacking healthcare. 
 
 ![Image description](images/Lackhealthvs.Income.png)
 
