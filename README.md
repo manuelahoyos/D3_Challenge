@@ -1,6 +1,7 @@
-# D3 Challenge
+# Data Journalism and D3
 
 ## Overview:
+
 The correlation between lack of healthcare, percentage of smokers, and obesity percentage was compared to poverty percentage, median age and median household income for all states in the U.S. The data was obtained from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System and the results were visualized using D3. 
 
 ## Workflow:
